@@ -22,9 +22,9 @@
             }
         ],
         "configuration": {
-            "title": "Cucumber step mapper",
+            "title": "Cucumber gotostep",
             "properties": {
-                "cucumber-step-mapper.srcPath": {
+                "cucumber-gotostep.srcPath": {
                     "type": "string",
                     "default": "features/step_definitions",
                     "description": "Relative path to step definition files, 'src' as default."

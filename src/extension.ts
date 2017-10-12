@@ -24,7 +24,7 @@ function getListOfFiles(myPath) {
 }
 
 function getPathToSrc() {
-    const srcPath = vscode.workspace.getConfiguration('cucumber-step-mapper').get('srcPath').toString();
+    const srcPath = vscode.workspace.getConfiguration('cucumber-gotostep').get('srcPath').toString();
     return path.join(vscode.workspace.rootPath, srcPath);
 }
 

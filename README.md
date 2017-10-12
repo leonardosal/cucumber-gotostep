@@ -9,6 +9,7 @@ A Visual Studio Code extension that provides go to implementation cucumber steps
 ## Installation
 
  - You will need to install Visual Studio Code 1.17.1 or higher.
+ - Preferences -> Settings -> cucumber-gotostep - set path of the steps implementation files
 
 ## Contributions
 
