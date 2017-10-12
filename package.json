@@ -2,7 +2,7 @@
     "name": "cucumber-gotostep",
     "displayName": "cucumber-gotostep",
     "description": "",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "leonardosal",
     "engines": {
         "vscode": "^1.16.0"
