@@ -4,7 +4,7 @@
 A Visual Studio Code extension that provides go to implementation cucumber steps on feature files.
 
 ## How to use
-![](https://i.imgur.com/5crMfTj.gif)
+![](https://raw.githubusercontent.com/leonardosal/cucumber-gotostep/master/example/cucumber.gif)
 
 ## Installation
 
